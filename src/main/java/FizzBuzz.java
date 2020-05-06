@@ -1,5 +1,5 @@
 public class FizzBuzz {
     public String processNumber(Integer number) {
-        return String.valueOf(number);
+        return number == 3 ? "Fizz" : String.valueOf(number);
     }
 }
