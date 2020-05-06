@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5dfbee8b-28be-40d5-b36b-3fab20da3e78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzTest.givenIntegerSevenProcessedNumberIsStringSeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizz-buzz" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="givenIntegerSevenProcessedNumberIsStringSeven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzTest.shouldProcessNumberTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fizz-buzz" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,10 +84,12 @@
       <item itemvalue="JUnit.FizzBuzzTest" />
       <item itemvalue="JUnit.All in bank" />
       <item itemvalue="JUnit.FizzBuzzTest.shouldProcessNumberTwo" />
+      <item itemvalue="JUnit.FizzBuzzTest.givenIntegerSevenProcessedNumberIsStringSeven" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FizzBuzzTest.givenIntegerSevenProcessedNumberIsStringSeven" />
         <item itemvalue="JUnit.FizzBuzzTest.shouldProcessNumberTwo" />
         <item itemvalue="JUnit.All in bank" />
         <item itemvalue="Application.Application" />
@@ -99,25 +110,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="408" key="GridCell.Tab.0.bottom" timestamp="1588769086898">
+    <state width="1638" height="408" key="GridCell.Tab.0.bottom" timestamp="1588769318867">
       <screen x="-1680" y="98" width="1680" height="1027" />
     </state>
-    <state width="1638" height="408" key="GridCell.Tab.0.bottom/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769086898" />
+    <state width="1638" height="408" key="GridCell.Tab.0.bottom/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769318867" />
     <state width="2518" height="407" key="GridCell.Tab.0.bottom/-1680.98.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588764826058" />
-    <state width="1638" height="408" key="GridCell.Tab.0.center" timestamp="1588769086897">
+    <state width="1638" height="408" key="GridCell.Tab.0.center" timestamp="1588769318867">
       <screen x="-1680" y="98" width="1680" height="1027" />
     </state>
-    <state width="1638" height="408" key="GridCell.Tab.0.center/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769086897" />
+    <state width="1638" height="408" key="GridCell.Tab.0.center/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769318867" />
     <state width="2518" height="407" key="GridCell.Tab.0.center/-1680.98.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588764826057" />
-    <state width="1638" height="408" key="GridCell.Tab.0.left" timestamp="1588769086896">
+    <state width="1638" height="408" key="GridCell.Tab.0.left" timestamp="1588769318866">
       <screen x="-1680" y="98" width="1680" height="1027" />
     </state>
-    <state width="1638" height="408" key="GridCell.Tab.0.left/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769086896" />
+    <state width="1638" height="408" key="GridCell.Tab.0.left/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769318866" />
     <state width="2518" height="407" key="GridCell.Tab.0.left/-1680.98.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588764826057" />
-    <state width="1638" height="408" key="GridCell.Tab.0.right" timestamp="1588769086897">
+    <state width="1638" height="408" key="GridCell.Tab.0.right" timestamp="1588769318867">
       <screen x="-1680" y="98" width="1680" height="1027" />
     </state>
-    <state width="1638" height="408" key="GridCell.Tab.0.right/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769086897" />
+    <state width="1638" height="408" key="GridCell.Tab.0.right/-1680.98.1680.1027/0.23.2560.1417@-1680.98.1680.1027" timestamp="1588769318867" />
     <state width="2518" height="407" key="GridCell.Tab.0.right/-1680.98.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1588764826058" />
   </component>
   <component name="masterDetails">

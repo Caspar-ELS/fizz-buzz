@@ -15,4 +15,10 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz();
         assertEquals( "2", fizzBuzz.processNumber(2));
     }
+
+    @Test
+    public void givenIntegerSevenProcessedNumberIsStringSeven() {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+        assertEquals( "7", fizzBuzz.processNumber(7));
+    }
 }
