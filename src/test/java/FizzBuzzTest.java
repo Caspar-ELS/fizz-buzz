@@ -1,6 +1,12 @@
 import org.junit.Test;
-import org.junit.Assert;
+
+import static org.junit.Assert.assertEquals;
 
 public class FizzBuzzTest {
 
+    @Test
+    public void shouldProcessNumberOne() {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+        assertEquals(fizzBuzz.processNumber(1), "1");
+    }
 }
