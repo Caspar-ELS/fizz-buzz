@@ -31,4 +31,10 @@ public class FizzBuzzTest {
     public void givenIntegerThreeProcessedNumberIsStringFizz(){
         assertEquals("Fizz", fizzBuzz.processNumber(3));
     }
+
+    @Test
+    public void givenIntegerFiveProcessedNumberIsStringBuzz() { assertEquals("Buzz", fizzBuzz.processNumber(5));}
+
+    @Test
+    public void givenIntegerMultipleOfThreeProcessedNumberIsStringFizz() {assertEquals("Fizz", fizzBuzz.processNumber(6));}
 }
